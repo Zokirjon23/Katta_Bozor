@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Katta Bozor</string>
+    <string name="errorConnection">Internet Connection Error</string>
+</resources>
